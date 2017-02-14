@@ -5,6 +5,7 @@ public class Ch4ExamplesString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//test git
 		String message = "Welcome to Java. This class is awesome!";
 		System.out.println("The length of " + message + " is " 
 		  + message.length());

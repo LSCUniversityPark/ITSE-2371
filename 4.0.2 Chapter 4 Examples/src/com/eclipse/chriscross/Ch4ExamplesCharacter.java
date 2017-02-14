@@ -4,6 +4,7 @@ public class Ch4ExamplesCharacter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//test git
 		int letter = 'c';
 		System.out.println(letter);
 		System.out.println((char)letter);
